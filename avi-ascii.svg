@@ -1,0 +1,747 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="583"
+     viewBox="0 0 620 583">
+  <rect x="0" y="0" width="620" height="583" fill="#0d1117" />
+  
+  <clipPath id="clip0">
+    <rect x="0" y="2" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.000s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="11" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip0)" xml:space="preserve">                                                                                                    </text>
+  <rect class="cursor" x="0" y="2" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.000s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.550s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip1">
+    <rect x="0" y="13" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.045s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="22" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip1)" xml:space="preserve">                                                                                                    </text>
+  <rect class="cursor" x="0" y="13" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.045s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.595s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip2">
+    <rect x="0" y="24" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.090s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="33" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip2)" xml:space="preserve">                                                                                                    </text>
+  <rect class="cursor" x="0" y="24" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.090s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.640s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip3">
+    <rect x="0" y="35" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.135s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="44" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip3)" xml:space="preserve">                                                                                                    </text>
+  <rect class="cursor" x="0" y="35" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.135s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.685s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip4">
+    <rect x="0" y="46" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.180s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="55" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip4)" xml:space="preserve">                                                                                                    </text>
+  <rect class="cursor" x="0" y="46" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.180s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.730s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip5">
+    <rect x="0" y="57" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.225s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="66" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip5)" xml:space="preserve">                                                                                                    </text>
+  <rect class="cursor" x="0" y="57" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.225s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.775s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip6">
+    <rect x="0" y="68" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.270s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="77" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip6)" xml:space="preserve">                                             -+++-.                                                 </text>
+  <rect class="cursor" x="0" y="68" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.270s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.820s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip7">
+    <rect x="0" y="79" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.315s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="88" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip7)" xml:space="preserve">                                            =**++*-.                                                </text>
+  <rect class="cursor" x="0" y="79" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.315s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.865s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip8">
+    <rect x="0" y="90" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.360s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="99" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip8)" xml:space="preserve">                                        .`=+++++++++=--`                                            </text>
+  <rect class="cursor" x="0" y="90" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.360s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.910s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip9">
+    <rect x="0" y="101" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.405s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="110" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip9)" xml:space="preserve">                                     .=*ccccssscccscc***-.                                          </text>
+  <rect class="cursor" x="0" y="101" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.405s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="0.955s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip10">
+    <rect x="0" y="112" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.450s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="121" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip10)" xml:space="preserve">                                     +####ssss####sscc****=                                         </text>
+  <rect class="cursor" x="0" y="112" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.450s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.000s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip11">
+    <rect x="0" y="123" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.495s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="132" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip11)" xml:space="preserve">                                    :s#s*+=-::-=+*ssssssscc=`                                       </text>
+  <rect class="cursor" x="0" y="123" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.495s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.045s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip12">
+    <rect x="0" y="134" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.540s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="143" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip12)" xml:space="preserve">                                    -#*=--``...````-+ccsss##c:                                      </text>
+  <rect class="cursor" x="0" y="134" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.540s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.090s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip13">
+    <rect x="0" y="145" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.585s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="154" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip13)" xml:space="preserve">                                    -+==--:`..````:--+*c#ss#sc`                                     </text>
+  <rect class="cursor" x="0" y="145" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.585s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.135s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip14">
+    <rect x="0" y="156" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.630s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="165" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip14)" xml:space="preserve">                                    *+===-``.```::--==+*s%#ss#-                                     </text>
+  <rect class="cursor" x="0" y="156" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.630s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.180s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip15">
+    <rect x="0" y="167" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.675s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="176" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip15)" xml:space="preserve">                                   `*++==+**c*=-------=+*#%%ss+                                     </text>
+  <rect class="cursor" x="0" y="167" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.675s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.225s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip16">
+    <rect x="0" y="178" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.720s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="187" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip16)" xml:space="preserve">                                   :sssc**s#s==*+=-----=+*s###*                                     </text>
+  <rect class="cursor" x="0" y="178" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.720s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.270s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip17">
+    <rect x="0" y="189" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.765s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="198" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip17)" xml:space="preserve">                                   `scss-`:+scc+`.`:----:-++c#=                                     </text>
+  <rect class="cursor" x="0" y="189" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.765s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.315s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip18">
+    <rect x="0" y="200" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.810s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="209" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip18)" xml:space="preserve">                                    +#s=....``.  .`:-++=:+=:+#`                                     </text>
+  <rect class="cursor" x="0" y="200" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.810s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.360s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip19">
+    <rect x="0" y="211" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.855s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="220" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip19)" xml:space="preserve">                                    -**=++-`.  .:--=++++:`.-s*                                      </text>
+  <rect class="cursor" x="0" y="211" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.855s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.405s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip20">
+    <rect x="0" y="222" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.900s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="231" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip20)" xml:space="preserve">                                    -=+*=-:...`:--=++=+*=:+#c                                       </text>
+  <rect class="cursor" x="0" y="222" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.900s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.450s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip21">
+    <rect x="0" y="233" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.945s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="242" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip21)" xml:space="preserve">                                    `*c+=---=----=====+csc#s`                                       </text>
+  <rect class="cursor" x="0" y="233" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.945s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.495s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip22">
+    <rect x="0" y="244" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="0.990s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="253" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip22)" xml:space="preserve">                                     =c+==+=-=++===+*cc*+**:.                                       </text>
+  <rect class="cursor" x="0" y="244" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="0.990s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.540s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip23">
+    <rect x="0" y="255" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.035s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="264" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip23)" xml:space="preserve">                                      +cc+=----==*cs##s=-++`.                                       </text>
+  <rect class="cursor" x="0" y="255" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.035s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.585s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip24">
+    <rect x="0" y="266" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.080s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="275" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip24)" xml:space="preserve">                                       +*+====*cs###%#*====`                                        </text>
+  <rect class="cursor" x="0" y="266" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.080s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.630s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip25">
+    <rect x="0" y="277" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.125s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="286" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip25)" xml:space="preserve">                                        =*s###%%%%##s*====```                                       </text>
+  <rect class="cursor" x="0" y="277" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.125s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.675s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip26">
+    <rect x="0" y="288" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.170s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="297" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip26)" xml:space="preserve">                                          *%%%%%#sc*+==+=`..`=`                                     </text>
+  <rect class="cursor" x="0" y="288" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.170s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.720s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip27">
+    <rect x="0" y="299" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.215s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="308" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip27)" xml:space="preserve">                                         `:*#%##sc***+-`......-=-:`.                                </text>
+  <rect class="cursor" x="0" y="299" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.215s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.765s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip28">
+    <rect x="0" y="310" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.260s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="319" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip28)" xml:space="preserve">                                     .`-*-.`:+sssc*+-`.......-**+==--:`..                           </text>
+  <rect class="cursor" x="0" y="310" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.260s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.810s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip29">
+    <rect x="0" y="321" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.305s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="330" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip29)" xml:space="preserve">                                 ..:-==+*=.....`-=:.  ...```+**+=-=-------::.                       </text>
+  <rect class="cursor" x="0" y="321" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.305s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.855s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip30">
+    <rect x="0" y="332" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.350s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="341" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip30)" xml:space="preserve">                              .`-=+++==+*c=`...+cs- ...``:-***+=-==-=--------:`.                    </text>
+  <rect class="cursor" x="0" y="332" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.350s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.900s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip31">
+    <rect x="0" y="343" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.395s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="352" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip31)" xml:space="preserve">                            `:-==++++==+*cc*-`c%#%%=``::-+*+==---===------=------.                  </text>
+  <rect class="cursor" x="0" y="343" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.395s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.945s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip32">
+    <rect x="0" y="354" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.440s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="363" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip32)" xml:space="preserve">                          .::---=++++=+=+*******##*=--+**++=--=======-=====-==----`                 </text>
+  <rect class="cursor" x="0" y="354" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.440s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="1.990s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip33">
+    <rect x="0" y="365" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.485s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="374" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip33)" xml:space="preserve">                        .::----=++**++++++++++*cssc******+*=-=+====--=++++=+++==-:-:.               </text>
+  <rect class="cursor" x="0" y="365" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.485s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.035s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip34">
+    <rect x="0" y="376" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.530s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="385" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip34)" xml:space="preserve">                       .-=----=++++++++=++=-++++*+++****+++=-+====--=+++++=***++==--::.             </text>
+  <rect class="cursor" x="0" y="376" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.530s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.080s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip35">
+    <rect x="0" y="387" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.575s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="396" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip35)" xml:space="preserve">                     .:--+=--=+*++++==-====-=cccc*+++*+=++=--=--=---=+**+=+c***+++==--.             </text>
+  <rect class="cursor" x="0" y="387" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.575s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.125s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip36">
+    <rect x="0" y="398" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.620s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="407" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip36)" xml:space="preserve">                     :===++-==+*+===------=--=*+++++++==+=-:=---=---=++*++*ccc*+*+++:               </text>
+  <rect class="cursor" x="0" y="398" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.620s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.170s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip37">
+    <rect x="0" y="409" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.665s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="418" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip37)" xml:space="preserve">                      ===+*==+++++=--:----=---=+==+*+==+=---=---==-=+=++++cccc***c*-                </text>
+  <rect class="cursor" x="0" y="409" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.665s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.215s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip38">
+    <rect x="0" y="420" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.710s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="429" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip38)" xml:space="preserve">                      :+++c+++++*+=-------==--===++++=++=---=---=-===+++++csc***cc--`               </text>
+  <rect class="cursor" x="0" y="420" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.710s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.260s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip39">
+    <rect x="0" y="431" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.755s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="440" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip39)" xml:space="preserve">                      `:=*c+++++**+==--=--==--==++====+==--==-=====+++++++csc**sc-`:`.              </text>
+  <rect class="cursor" x="0" y="431" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.755s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.305s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip40">
+    <rect x="0" y="442" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.800s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="451" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip40)" xml:space="preserve">                      :::+s*++++**++=====-=+=-=+++====+==--=======++*+=+++csc*c++-.```.             </text>
+  <rect class="cursor" x="0" y="442" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.800s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.350s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip41">
+    <rect x="0" y="453" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.845s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="462" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip41)" xml:space="preserve">                      `:`:+*++==*c*++=-====+====++==++==---==++===+++===++sscc+=--..```             </text>
+  <rect class="cursor" x="0" y="453" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.845s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.395s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip42">
+    <rect x="0" y="464" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.890s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="473" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip42)" xml:space="preserve">                     .`:::-**+==+*c**===++=+====+++++===--=++++==+++====++sssc--:-..```             </text>
+  <rect class="cursor" x="0" y="464" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.890s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.440s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip43">
+    <rect x="0" y="475" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.935s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="484" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip43)" xml:space="preserve">                     ```::-**++=+*c**====++++==+++++++=====++++==+++==++++sss+-::=..````            </text>
+  <rect class="cursor" x="0" y="475" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.935s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.485s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip44">
+    <rect x="0" y="486" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="1.980s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="495" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip44)" xml:space="preserve">                     :`.::-*+++=++*c*====++*+==++++++==-==+++====+++==++++sss=-::-`.```:            </text>
+  <rect class="cursor" x="0" y="486" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="1.980s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.530s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip45">
+    <rect x="0" y="497" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="2.025s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="506" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip45)" xml:space="preserve">                     :`.::-+*++==+*c*==-==+*+===+=++======+++===+++=++++++s#c-:`:=`.```:`           </text>
+  <rect class="cursor" x="0" y="497" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="2.025s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.575s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip46">
+    <rect x="0" y="508" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="2.070s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="517" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip46)" xml:space="preserve">                    .``.::-+*++==++*c+=====+*+-===========+++===++++==++*+s#c-:::=`.`:``:           </text>
+  <rect class="cursor" x="0" y="508" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="2.070s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.620s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip47">
+    <rect x="0" y="519" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="2.115s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="528" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip47)" xml:space="preserve">                    .`:.::-=*+===++*c*=-===+**+===+=======++====++++==+**+s#*--::=`.`:````          </text>
+  <rect class="cursor" x="0" y="519" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="2.115s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.665s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip48">
+    <rect x="0" y="530" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="2.160s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="539" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip48)" xml:space="preserve">                    :.``:-:=*++===+cs*===-=+**+========-==++====++++=+++**c#*-::-+`.`:::`:          </text>
+  <rect class="cursor" x="0" y="530" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="2.160s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.710s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip49">
+    <rect x="0" y="541" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="2.205s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="550" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip49)" xml:space="preserve">                    -`.`:-:-c*++==+csc+=--=+**+======--===++=====++=+=++**cs*----+:.`:```:.         </text>
+  <rect class="cursor" x="0" y="541" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="2.205s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.755s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip50">
+    <rect x="0" y="552" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="2.250s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="561" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip50)" xml:space="preserve">                    --.`:-::**+====*sc+=--==+++====---====++=====+==++++*****+=-=+:.:::`:::         </text>
+  <rect class="cursor" x="0" y="552" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="2.250s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.800s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip51">
+    <rect x="0" y="563" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="2.295s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="572" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip51)" xml:space="preserve">                   `-````:::=*++===+cs*=---=++++=-----===+++=====+=+++*++**=`+=-=+`.:`:::`::        </text>
+  <rect class="cursor" x="0" y="563" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="2.295s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.845s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+  <clipPath id="clip52">
+    <rect x="0" y="574" width="0" height="11">
+      <animate attributeName="width" from="0" to="620.0" begin="2.340s"
+               dur="0.55s" fill="freeze" calcMode="linear" />
+    </rect>
+  </clipPath>
+  <text x="0" y="583" font-family="Consolas, 'SF Mono', monospace" font-size="11"
+        fill="#8b949e" clip-path="url(#clip52)" xml:space="preserve">                   --:`::=---*+=====csc=---=+======---==++++====+++++++*+**+` =+**``:::`::::`       </text>
+  <rect class="cursor" x="0" y="574" width="2" height="9" fill="#8b949e">
+    <animate attributeName="x" from="0" to="620.0" begin="2.340s"
+             dur="0.55s" fill="freeze" calcMode="linear" />
+    <animate attributeName="opacity" from="1" to="0" begin="2.890s"
+             dur="0.15s" fill="freeze" />
+  </rect>
+</svg>
