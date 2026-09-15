@@ -238,7 +238,7 @@
     },
     {
       "date": "2025-11-12",
-      "level": 4
+      "level": 3
     },
     {
       "date": "2025-11-13",
@@ -1473,7 +1473,7 @@
     "total_active_days": 74,
     "current_streak": 60,
     "longest_streak": 60,
-    "best_day": "2025-11-12",
+    "best_day": "2025-11-20",
     "monthly_active_days": {
       "2025-09": 0,
       "2025-10": 3,
