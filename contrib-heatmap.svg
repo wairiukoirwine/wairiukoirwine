@@ -22,5 +22,5 @@
   <text x="642" y="147" class="legend-text">Less</text>
   <rect x="676" y="135" width="11" height="11" rx="2.5" fill="#161b22" /><rect x="691" y="135" width="11" height="11" rx="2.5" fill="#0e4429" /><rect x="706" y="135" width="11" height="11" rx="2.5" fill="#006d32" /><rect x="721" y="135" width="11" height="11" rx="2.5" fill="#26a641" /><rect x="736" y="135" width="11" height="11" rx="2.5" fill="#39d353" />
   <text x="757" y="147" class="legend-text">More</text>
-  <text x="30" y="156" class="footer">130 active days in the last year &#183; current streak 119 &#183; longest streak 119</text>
+  <text x="30" y="156" class="footer">130 active days in the last year &#183; current streak 0 &#183; longest streak 119</text>
 </svg>
